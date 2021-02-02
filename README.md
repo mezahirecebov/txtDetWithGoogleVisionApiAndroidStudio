@@ -1,2 +1,0 @@
-# txtDetWithGoogleVisionApiAndroidStudio
-# txtDetWithGoogleVisionApiAndroidStudio
